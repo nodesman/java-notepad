@@ -5,6 +5,8 @@ A simple text editor application built with Java Swing, replicating core feature
 <center>
 <img src="https://raw.githubusercontent.com/nodesman/java-notepad/resources/dist/screenshot.png">
 </center>
+
+
 ## Features
 
 *   **File Operations:** New, Open, Save, Save As, Exit
