@@ -3,7 +3,7 @@
 A simple text editor application built with Java Swing, replicating core features of Microsoft Notepad.
 
 <center>
-<img src="https://raw.githubusercontent.com/nodesman/java-notepad/resources/resources/dist/screenshot.png">
+<img src="https://raw.githubusercontent.com/nodesman/java-notepad/resources/dist/screenshot.png">
 </center>
 ## Features
 
